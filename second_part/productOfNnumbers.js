@@ -1,0 +1,7 @@
+let valueOfN = 12;
+let product = 1;
+
+for(let index=1;index<=valueOfN;index++){
+  product = product*index;
+}
+console.log(product);
